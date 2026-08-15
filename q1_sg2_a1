@@ -31,6 +31,12 @@ Sub-Problem 4: There is no system to track which food items are running out.
 CT Skill: Logical Thinking
 Solution: Program a system where it monitors each food item, identifying whether it’s out of supply or not. Create an “alarm” which alerts the staff when it is running out. Also display the quantity of items sold and the remaining.
 
-## Pseudocode
+### Pseudocode
 
 START
+
+    hi
+
+
+
+
